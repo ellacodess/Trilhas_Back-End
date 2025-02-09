@@ -5,10 +5,10 @@ função para realizar o cálculo. A função deve receber o raio como parâmetr
 
 function areaCirculo(raio){
     let area = Math.PI * Math.pow(raio, 2);
-    console.log(area);
     return area;
 }
 
-let raio = prompt('Insira o raio: ');
+let raio = prompt('Insira o raio:');
+let precisao = 5; // Quantidade de casas decimais para o resultado
 
-alert(areaCirculo(raio));
+alert(`A área do círculo de raio ${raio} com ${precisao} casas decimais é: ${areaCirculo(raio).toFixed(precisao)}`);
