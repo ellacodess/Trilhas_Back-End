@@ -1,0 +1,12 @@
+/*
+11. Crie um loop que imprima a tabuada do número 7, de 1 a 10.
+*/
+
+let iteracao = 1;
+let resultado;
+
+while(iteracao <= 10){
+    resultado = 7 * iteracao;
+    alert(`7 * ${iteracao} = ${resultado}`);
+    iteracao++;
+}
