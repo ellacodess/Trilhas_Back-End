@@ -9,4 +9,4 @@ let precoFinal;
 
 precoFinal = preco - (preco * desconto);
 
-alert(`O valor ${preco} com desconto de ${0.2 * 100} é: ${precoFinal}`);
+alert(`O valor ${preco} com desconto de ${desconto * 100} é: ${precoFinal}`);
