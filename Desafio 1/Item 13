@@ -8,7 +8,7 @@ function areaCirculo(raio){
     return area;
 }
 
-let raio = prompt('Insira o raio:');
+let raio = Number(prompt('Insira o raio:'));
 let precisao = 5; // Quantidade de casas decimais para o resultado
 
 alert(`A área do círculo de raio ${raio} com ${precisao} casas decimais é: ${areaCirculo(raio).toFixed(precisao)}`);
