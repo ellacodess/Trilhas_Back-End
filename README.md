@@ -6,7 +6,7 @@
 
 > Repositório criado para armazenar as resoluções dos desafios do programa Trilhas, voltado para a formação em Back-End.
 
-## 🛠️ Recursos e Tecnologias
+## 💻 Recursos e Tecnologias
 
 Este repositório contém desafios resolvidos utilizando os seguintes recursos e tecnologias:
 
