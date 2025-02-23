@@ -20,12 +20,18 @@ Este repositório contém desafios resolvidos utilizando os seguintes recursos e
 
 ```
 📂 Trilhas_Back-End
- ┣ 📂 desafio01
+ ┣ 📂 Desafio01
  ┃ ┣ 📜 solucao.js
  ┃ ┣ 📜 README.md
- ┣ 📂 desafio02
+ ┣ 📂 Desafio02
  ┃ ┣ 📜 solucao.js
  ┃ ┣ 📜 README.md
+ ┣ 📂 JogoNumeroSecreto
+ ┃ ┣ 📂 .vscode
+ ┃ ┣ 📂 img
+ ┃ ┣ 📜 app.js
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 style.css
  ┣ 📜 README.md
 ```
 
