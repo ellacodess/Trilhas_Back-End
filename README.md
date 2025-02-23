@@ -4,7 +4,7 @@
 
 # 📌 Trilhas_Back-End
 
-> Repositório criado para armazenar as resoluções dos desafios do Trilhas, voltado para a formação em Back-End.
+> Repositório criado para armazenar as resoluções dos desafios do programa Trilhas, voltado para a formação em Back-End.
 
 ## 🛠️ Recursos e Tecnologias
 
