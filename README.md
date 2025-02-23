@@ -32,9 +32,9 @@ Este repositório contém desafios resolvidos utilizando os seguintes recursos e
 ## 📬 Contato
 
 Caso tenha dúvidas ou sugestões, entre em contato:  
-📧 Email: [17manoella@gmail.com](mailto:17manoella@gmail.com)  
+📧 Email: [17manoella@gmail.com](#)  
 🐙 GitHub: [ellacodess](https://github.com/ellacodess)  
 
 ---
 
-Feito por Manoella Marques (https://github.com/ellacodess)! 🌙
+Feito por Manoella Marques! 🌙
