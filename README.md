@@ -27,7 +27,6 @@ Este repositório contém desafios resolvidos utilizando os seguintes recursos e
  ┃ ┣ 📜 solucao.js
  ┃ ┣ 📜 README.md
  ┣ 📂 JogoNumeroSecreto
- ┃ ┣ 📂 .vscode
  ┃ ┣ 📂 img
  ┃ ┣ 📜 app.js
  ┃ ┣ 📜 index.html
