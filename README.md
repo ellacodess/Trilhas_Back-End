@@ -26,7 +26,7 @@ Este repositório contém desafios resolvidos utilizando os seguintes recursos e
  ┣ 📂 Desafio02
  ┃ ┣ 📜 solucao.htlm
  ┃ ┣ 📜 solucao.css
- ┃ ┣ 📜 README.md
+ ┃ ┣ 📜 documentação.pdf
  ┣ 📂 JogoNumeroSecreto
  ┃ ┣ 📂 img
  ┃ ┣ 📜 app.js
