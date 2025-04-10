@@ -30,19 +30,19 @@ Este projeto utilizou os seguintes recursos e tecnologias:
 
 ## 📥 Como Executar o Projeto Localmente (via ZIP)
 
-# Pré-requisitos
+###  Pré-requisitos
 - Navegador moderno (Chrome, Firefox, Edge)
 - Programa para extrair ZIP (WinRAR, 7-Zip ou nativo do sistema)
 
 ### 📦 Método via Download ZIP
 
-### 1. Baixar o projeto
-1. Acesse o repositório no GitHub:
-https://github.com/seu-usuario/nome-do-repositorio)
+### - Baixar o projeto
+  -Acesse o repositório no GitHub:
+  https://github.com/seu-usuario/nome-do-repositorio)
 
-2. Clique no botão verde "Code" → "Download ZIP"
-
-3. Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos)
+  - Clique no botão verde "Code" → "Download ZIP"
+ 
+  - Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos)
 
 
 ### 2. Extrair arquivos 📂
