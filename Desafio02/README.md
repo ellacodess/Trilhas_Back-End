@@ -28,30 +28,30 @@ Este projeto utilizou os seguintes recursos e tecnologias:
 - ```JavaScript``` - Linguagem de programação utilizada para interatividade e lógica do lado do cliente e servidor
 
 
-## 📥 Como Executar o Projeto Localmente (via ZIP)
+## ▶️ Como Executar o Projeto Localmente (via ZIP)
 
-###  Pré-requisitos
+### ❗ Pré-requisitos
 - Navegador moderno (Chrome, Firefox, Edge)
 - Programa para extrair ZIP (WinRAR, 7-Zip ou nativo do sistema)
 
 ### 📦 Método via Download ZIP
 
-### Baixar o projeto
+### 1. Baixar o projeto 📥
   - Acesse o repositório no GitHub:
-  https://github.com/seu-usuario/nome-do-repositorio)
+    https://github.com/seu-usuario/nome-do-repositorio)
 
   - Clique no botão verde "Code" → "Download ZIP"
  
   - Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos)
 
-### 2. Extrair arquivos 📂
-1. Localize o arquivo .zip baixado.
+### 2. Extrair arquivos 🗂️
+  - Localize o arquivo .zip baixado.
 
-2. Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux).
+  - Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux).
 
-### 3. Abrir a Pasta no Navegador (Método Simples)
-1. Abra a pasta extraída.
+### 3. Abrir a Pasta no Navegador (Método Simples) 📂
+  - Abra a pasta extraída.
 
-2. Localize o arquivo principal (geralmente index.html).
+  - Localize o arquivo principal (geralmente index.html).
 
-3. Dê um duplo clique nele → o navegador abrirá o projeto.
+  - Dê um duplo clique nele → o navegador abrirá o projeto.
