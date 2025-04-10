@@ -36,14 +36,13 @@ Este projeto utilizou os seguintes recursos e tecnologias:
 
 ### 📦 Método via Download ZIP
 
-### - Baixar o projeto
-  -Acesse o repositório no GitHub:
+### Baixar o projeto
+  - Acesse o repositório no GitHub:
   https://github.com/seu-usuario/nome-do-repositorio)
 
   - Clique no botão verde "Code" → "Download ZIP"
  
   - Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos)
-
 
 ### 2. Extrair arquivos 📂
 1. Localize o arquivo .zip baixado.
