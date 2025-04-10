@@ -28,46 +28,31 @@ Este projeto utilizou os seguintes recursos e tecnologias:
 - ```JavaScript``` - Linguagem de programação utilizada para interatividade e lógica do lado do cliente e servidor
 
 
-## 📂 Execução do Projeto
+## 📥 Como Executar o Projeto Localmente (via ZIP)
 
-```
-📂 Trilhas_Back-End
- ┣ 📂 Desafio01
- ┃ ┣ 📜 solucao.js
- ┃ ┣ 📜 README.md
- ┣ 📂 Desafio02
- ┃ ┣ 📜 solucao.htlm
- ┃ ┣ 📜 solucao.css
- ┃ ┣ 📜 documentação.pdf
- ┣ 📂 JogoNumeroSecreto
- ┃ ┣ 📂 img
- ┃ ┣ 📜 app.js
- ┃ ┣ 📜 index.html
- ┃ ┣ 📜 style.css
- ┣ 📜 README.md
+# Pré-requisitos
+- Navegador moderno (Chrome, Firefox, Edge)
+- Programa para extrair ZIP (WinRAR, 7-Zip ou nativo do sistema)
 
-Há várias maneiras de rodar um projeto a partir do github, uma delas é:
+# 📦 Método via Download ZIP
 
-1º Passo: ``Baixar o ZIP do GitHub``
-- Acesse o repositório no GitHub (ex: https://github.com/seu-usuario/nome-do-repositorio).
+# 1. Baixar o projeto
+1. Acesse o repositório no GitHub:
+https://github.com/seu-usuario/nome-do-repositorio)
 
-- Clique no botão verde "Code".
+2. Clique no botão verde "Code" → "Download ZIP"
 
-- Selecione "Download ZIP".
+3. Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos)
 
-- Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos).
 
-2º Passo: ``Extrair os Arquivos``
-- Localize o arquivo .zip baixado.
+# 2. Extrair arquivos 📂
+1. Localize o arquivo .zip baixado.
 
-- Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux).
+2. Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux).
 
-- Uma pasta com o nome do repositório será criada (ex: nome-do-repositorio-main).
+# 3. Abrir a Pasta no Navegador (Método Simples)
+1. Abra a pasta extraída.
 
-3º Passo: ``Abrir a Pasta no Navegador (Método Simples)``
-- Abra a pasta extraída.
+2. Localize o arquivo principal (geralmente index.html).
 
-- Localize o arquivo principal (geralmente index.html).
-
-- Dê um duplo clique nele → o navegador abrirá o projeto.
-```
+3. Dê um duplo clique nele → o navegador abrirá o projeto.
