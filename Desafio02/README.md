@@ -34,9 +34,9 @@ Este projeto utilizou os seguintes recursos e tecnologias:
 - Navegador moderno (Chrome, Firefox, Edge)
 - Programa para extrair ZIP (WinRAR, 7-Zip ou nativo do sistema)
 
-# 📦 Método via Download ZIP
+### 📦 Método via Download ZIP
 
-# 1. Baixar o projeto
+### 1. Baixar o projeto
 1. Acesse o repositório no GitHub:
 https://github.com/seu-usuario/nome-do-repositorio)
 
@@ -45,12 +45,12 @@ https://github.com/seu-usuario/nome-do-repositorio)
 3. Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos)
 
 
-# 2. Extrair arquivos 📂
+### 2. Extrair arquivos 📂
 1. Localize o arquivo .zip baixado.
 
 2. Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux).
 
-# 3. Abrir a Pasta no Navegador (Método Simples)
+### 3. Abrir a Pasta no Navegador (Método Simples)
 1. Abra a pasta extraída.
 
 2. Localize o arquivo principal (geralmente index.html).
