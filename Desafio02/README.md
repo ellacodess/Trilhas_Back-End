@@ -52,6 +52,6 @@ Este projeto utilizou os seguintes recursos e tecnologias:
 ### 3. Abrir a Pasta no Navegador (Método Simples) 📂
   - Abra a pasta extraída correspondente ao projeto que queira executar
 
-  - Localize o arquivo principal (geralmente index.html)
+  - Localize o arquivo principal (index.html)
 
   - Dê um duplo clique nele → o navegador abrirá o projeto
