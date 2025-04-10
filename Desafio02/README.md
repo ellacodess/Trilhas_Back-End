@@ -38,7 +38,7 @@ Este projeto utilizou os seguintes recursos e tecnologias:
 
 ### 1. Baixar o projeto 📥
   - Acesse o repositório no GitHub:
-    https://github.com/ellacodess/Trilhas_Back-End/tree/main/Desafio02/aplicação
+    https://github.com/ellacodess/Trilhas_Back-End
 
   - Clique no botão verde "Code" → "Download ZIP"
  
@@ -50,7 +50,7 @@ Este projeto utilizou os seguintes recursos e tecnologias:
   - Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux)
 
 ### 3. Abrir a Pasta no Navegador (Método Simples) 📂
-  - Abra a pasta extraída
+  - Abra a pasta extraída correspondente ao projeto que queira executar
 
   - Localize o arquivo principal (geralmente index.html)
 
