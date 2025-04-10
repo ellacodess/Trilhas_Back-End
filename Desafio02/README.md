@@ -45,13 +45,13 @@ Este projeto utilizou os seguintes recursos e tecnologias:
   - Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos)
 
 ### 2. Extrair arquivos 🗂️
-  - Localize o arquivo .zip baixado.
+  - Localize o arquivo .zip baixado
 
-  - Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux).
+  - Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux)
 
 ### 3. Abrir a Pasta no Navegador (Método Simples) 📂
-  - Abra a pasta extraída.
+  - Abra a pasta extraída
 
-  - Localize o arquivo principal (geralmente index.html).
+  - Localize o arquivo principal (geralmente index.html)
 
-  - Dê um duplo clique nele → o navegador abrirá o projeto.
+  - Dê um duplo clique nele → o navegador abrirá o projeto
