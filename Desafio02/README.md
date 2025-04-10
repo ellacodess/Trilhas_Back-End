@@ -38,7 +38,7 @@ Este projeto utilizou os seguintes recursos e tecnologias:
 
 ### 1. Baixar o projeto 📥
   - Acesse o repositório no GitHub:
-    https://github.com/seu-usuario/nome-do-repositorio)
+    https://github.com/ellacodess/Trilhas_Back-End/tree/main/Desafio02/aplicação
 
   - Clique no botão verde "Code" → "Download ZIP"
  
