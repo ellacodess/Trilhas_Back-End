@@ -19,6 +19,8 @@
 
 ## ❔Objetivo e Descrição
 
+Este projeto teve como objetivo a criação de uma página estática web que simula um formulário de inscrição para um Programa de Formação. O formulário foi desenvolvido para permitir que os candidatos se inscrevam em diferentes trilhas de aprendizagem na área de tecnologia, como `Automação`, ``Inteligência Artificial``, ```Cibersegurança```, Desenvolvimento de Software e Análise de Dados.
+
 ## 📂 Execução do Projeto
 
 ```
