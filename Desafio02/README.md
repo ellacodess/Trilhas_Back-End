@@ -45,4 +45,29 @@ Este projeto utilizou os seguintes recursos e tecnologias:
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 style.css
  ┣ 📜 README.md
+
+Há várias maneiras de rodar um projeto a partir do github, uma delas é:
+
+1º Passo: ``Baixar o ZIP do GitHub``
+- Acesse o repositório no GitHub (ex: https://github.com/seu-usuario/nome-do-repositorio).
+
+- Clique no botão verde "Code".
+
+- Selecione "Download ZIP".
+
+- Salve o arquivo .zip no seu computador (em Downloads ou em uma pasta de projetos).
+
+2º Passo: ``Extrair os Arquivos``
+- Localize o arquivo .zip baixado.
+
+- Clique com o botão direito → "Extrair aqui" (Windows) ou dê um duplo clique (Mac/Linux).
+
+- Uma pasta com o nome do repositório será criada (ex: nome-do-repositorio-main).
+
+3º Passo: ``Abrir a Pasta no Navegador (Método Simples)``
+- Abra a pasta extraída.
+
+- Localize o arquivo principal (geralmente index.html).
+
+- Dê um duplo clique nele → o navegador abrirá o projeto.
 ```
