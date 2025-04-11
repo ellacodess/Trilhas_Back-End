@@ -226,8 +226,7 @@ function checkInputSenha(){
     }else{
         const formItem = senha.parentElement;
         formItem.classList.remove("error");
-    }
-    
+    }    
 }
 
 function checkInputEmailConfirmar(){
@@ -245,7 +244,6 @@ function checkInputEmailConfirmar(){
 }
 
 function checkForm(){
-
     checkInputNome();
     checkInputEmail();
     checkInputTelefone();
@@ -259,8 +257,6 @@ function checkForm(){
     checkInputTrilha();
     checkInputSenha();
     checkInputEmailConfirmar();
-
-    
 
     const usuarioCadastrado = JSON.parse(localStorage.getItem("usuarioCadastrado"));
     const emailDoCadastroValue = email.value;
@@ -279,10 +275,7 @@ function checkForm(){
     });
 
     if(valido){
-
         alert("Inscrição feita com sucesso.");
-
-    
     }
 }
 
@@ -293,4 +286,3 @@ function errorInput(input, message){
     
     formItem.className = "form-content error";
 }
-
