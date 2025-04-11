@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscrição - TechVision</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <header id="cabecalho">
+        
+    </header>
+        <main class="disposicao__formulario__img" id="conteudo-principal">
+            <section class="disposicao__formulario" id="formulario-inscricao">
+                <div class="inicio" id="incio-formulario">
+                    <a href="#" class="voltar" id="link-voltar"><img src="../img/seta.png">Voltar</a>
+                    <h1 id="titulo-formulario"><strong>Formulário de inscrição</strong></h1>
+                    <p id="descricao-formulario">Preencha os dados abaixo para fazer sua inscrição no <strong class="destaque__termo">Programa TechVision.</strong></p>
+                </div>
+
+                <form id="form" class="form">
+                    <div class="informacoes__participante" id="dados-participante">
+                        <p><strong>Informações do participante</strong></p>
+                        <div class="form-content">
+                            <label>Nome Completo</label>
+                            <input id="nome" placeholder="Digite o seu nome">
+                            <a>mensagem de erro</a>
+                        </div>
+
+                        <div class="form-content">
+                            <label>Data de nascimento</label>
+                            <input type="date" id="data-nascimento"  >
+                            <a>mensagem de erro</a>
+                        </div>
+
+                        <div class="form-content">
+                            <label>CPF</label>
+                            <input id="cpf" maxlength="14" placeholder="000.000.000-00">  
+                            <a>mensagem de erro</a>
+                        </div>
+                        
+                        <div class="form-content">
+                            <label>Sexo</label>
+                            <select name="Feminino" id="sexo">
+                                <option class="opcao" id="sexo-masc" >Masculino</option>
+                                <option class="opcao" id="sexo-femi" >Feminino</option>
+                            </select>
+                        </div>
+
+                        <div class="form-content">
+                            <label>E-mail</label>
+                            <input class="input__email__invalido" id="email" >
+                            <a>mensagem de erro</a>
+                        </div>
+                        
+                        <div class="form-content">
+                            <label>Telefone</label>
+                            <input id="telefone" maxlength="11">  
+                            <a>mensagem de erro</a> 
+                        </div>
+                        
+                        <div class="form-content">
+                            <label>Documento de identidade</label>
+                            <input type="file" id="identidade" required >
+                            <a>mensagem de erro</a>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="endereco" id="endereco-residencial">
+                        <p><strong>Endereço residencial</strong></p>
+
+                        <div class="form-content">
+                            <label>CEP</label>
+                            <input id="cep" maxlength="8" >
+                            <a>mensagem de erro</a>
+                        </div>
+                        
+                        <div class="org__rua__num">
+                            <div class="form-content">
+                                <label>Rua</label>
+                                <input id="rua" class="input__medio">
+                                <a>mensagem de erro</a>
+                            </div>
+                            <div class="form-content">
+                                <label>Número</label>
+                                <input id="numero" class="input__pequeno" >
+                                <a>mensagem de erro</a>
+                            </div>
+                        </div>
+
+                        <div class="org__cidade__estado">
+                            <div class="form-content">
+                                <label>Cidade</label>
+                                <input id="cidade" class="input__medio">
+                                <a>mensagem de erro</a>
+                            </div> 
+
+                            <div class="form-content">
+                                <label>Estado</label>
+                                <input id="estado" class="input__pequeno input__destaque" >
+                                <a>mensagem de erro</a>
+                            </div>
+                        </div>
+
+                        <div class="form-content">
+                            <label>Comprovante de residência</label>
+                            <input type="file" id="residencia" >
+                            <a>mensagem de erro</a>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="org__trilhas__termos">
+                        <div class="trilhas" id="trilhas-aprendizagem">
+                            <p><strong>Trilhas de aprendizagem</strong></p>
+                            <p>Selecione apenas uma trilha</p>
+                            
+                            <div class="trilha__opcoes">
+                                <label class="trilha" id="trilha-automocao">
+                                    <input type="radio" name="trilha" value="automacao">
+                                    <div class="trilha__conteudo">
+                                        <img src="../img/automation.png" alt="Ícone Automação">
+                                        <span>Automação</span>
+                                    </div>
+                                </label>
+                                <label class="trilha" id="trilha-ia">
+                                    <input type="radio" name="trilha" value="ia" >
+                                    <div class="trilha__conteudo">
+                                        <img src="../img/IA.png" alt="Ícone Inteligência Artificial">
+                                        <span>Inteligência Artificial</span>
+                                    </div>
+                                </label>
+                                <label class="trilha" id="trilha-seguranca">
+                                    <input type="radio" name="trilha" value="seguranca">
+                                    <div class="trilha__conteudo">
+                                        <img src="../img/cyber-security.png" alt="Ícone Cibersegurança">
+                                        <span>Cibersegurança</span>
+                                    </div>
+                                </label>
+                                <label class="trilha" id="trilha-software">
+                                    <input type="radio" name="trilha" value="software">
+                                    <div class="trilha__conteudo">
+                                        <img src="../img/devops.png" alt="Ícone Desenvolvimento de Software">
+                                        <span>Desenvolvimento de Software</span>
+                                    </div>
+                                </label>
+                                <label class="trilha" id="trilha-dados">
+                                    <input type="radio" name="trilha" value="dados" >
+                                    <div class="trilha__conteudo">
+                                        <img src="../img/data-analysis.png" alt="Ícone Análise de Dados">
+                                        <span>Análise de Dados</span>
+                                    </div>
+                                </label>
+                            </div>
+                        </div>
+                        
+                        <div class="confirmar-usuario">
+                            <p><strong>Confirmar usuário</strong></p>
+                            <div class="form-content">
+                                <label>E-mail</label>
+                                <input id="emailConfirmar" type="text">
+                                <a>erro</a>
+                            </div>
+                            
+                            <div class="form-content">
+                                <label>Senha</label>
+                                <input id="senha" type="password">
+                                <a>erro</a>
+                            </div>
+                        </div>
+    
+                        <div class="conf__termos" id="confirmacao-termos">
+                            <input class="input__termos" type="checkbox" id="termos" required>
+                            <label for="termos">Declaro que li e concordo com os <strong>Termos e Condições</strong> e com a <strong>Política de Privacidade</strong>.</label>
+                        </div>
+                    </div> 
+
+                    <div class="botoes" id="grupo-botoes">
+                        <button type="button" class="botao__1" id="botao-cancelar">Cancelar</button>
+                        <button type="submit" class="botao__2" id="botao-increver">Fazer inscrição</button>
+                    </div>
+                </form>
+            </section>
+            <div id="logo-lateral" class="disposicao__img">
+                <img class="imagem" src="../img/transparent.png" id="imagem-lateral">
+                <p class="logo" id="texto-logo">TechVision | INOVA Maranhão</p>
+            </div> 
+        </main>
+
+    <footer id="rodape"></footer>
+
+    <script src="../js/inscricao.js"></script>
+</body>
+</html>
