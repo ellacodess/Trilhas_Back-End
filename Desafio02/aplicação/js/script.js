@@ -1,16 +1,13 @@
-
 const form = document.getElementById("form");
 const nome = document.getElementById("nome");
 const email = document.getElementById("email");
 const senha = document.getElementById("senha");
 const confirmarSenha = document.getElementById("confirmar-senha");
 
-
 form.addEventListener("submit", (event) => {
     event.preventDefault();
 
     checkForm();
-    
 })
 
 email.addEventListener("blur", () => {
@@ -60,8 +57,7 @@ function checkInputSenha(){
     }else{
         const formItem = senha.parentElement;
         formItem.classList.remove("error");
-    }
-    
+    } 
 }
 
 function checkInputConfirmarSenha(){
@@ -75,8 +71,7 @@ function checkInputConfirmarSenha(){
     } else{
         const formItem = confirmarSenha.parentElement;
         formItem.classList.remove("error");
-    }
-    
+    }  
 }
 
 function checkForm(){
@@ -92,7 +87,6 @@ function checkForm(){
     });
 
     if(valido){
-
         const usuario = {
             nome: nome.value,
             email: email.value,
